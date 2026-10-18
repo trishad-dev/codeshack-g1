@@ -1,50 +1,50 @@
-\# CodeShack Team Repository
+# CodeShack Team Repository
 
 
 
-\## Overview
+## Overview
 
 This is the shared repository for our four-member CodeShack team.
 
 
 
-\## Objective
+## Objective
 
 To learn Git fundamentals and practise collaborative development using Git CLI, GitHub, feature branches, and meaningful commits.
 
 
 
-\## Collaboration Rules
+## Collaboration Rules
 
-\- Every team member must work on a separate feature branch.
+- Every team member must work on a separate feature branch.
 
-\- Direct commits to the main branch are not allowed.
+- Direct commits to the main branch are not allowed.
 
-\- All commits must have descriptive messages.
+- All commits must have descriptive messages.
 
-\- Team members should coordinate their changes.
+- Team members should coordinate their changes.
 
-\- Documentation must remain clear and organized.
-
-
-
-\## Team Members
-
-\- Member 1: To be added
-
-\- Member 2: To be added
-
-\- Member 3: To be added
-
-\- Member 4: To be added
+- Documentation must remain clear and organized.
 
 
 
-\## Tools
+## Team Members
 
-\- Git
+- Member 1: Trisha D 
 
-\- GitHub CLI
+- Member 2: Haripriya V 
 
-\- Markdown
+- Member 3: B Goniswamy
+
+- Member 4: Dhyan K L
+
+
+
+## Tools
+
+- Git
+
+- GitHub CLI
+
+- Markdown
 
